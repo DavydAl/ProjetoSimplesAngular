@@ -1,4 +1,4 @@
-#Projeto do curso de Angular Nível Iniciante
+# Projeto do curso de Angular Nível Iniciante
 
 Esse projeto é do curso de [Desenvolvimento SPA com Angular](https://desenvolvedor.io/curso-online-desenvolvimento-spa-com-angular) feito pela plataforma [Desenvolvedor.io](https://desenvolvedor.io/).
 
